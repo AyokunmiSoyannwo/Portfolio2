@@ -1,14 +1,35 @@
 
 h1 {
     text-align: center;
-    size: 50px;
+    font-size: 100px;
+    font-family: Anton;
 }
 
 h2 {
     text-align: left;
-    size: 20px;
+    font-size: 20px;
+    font-family: Anton;
 }
 
 p {
     size: 10px;
+}
+
+#title_card {
+    margin: auto;
+    width: 50%;
+    border: 3px  solid black;
+    padding: 10px;
+
+}
+
+#intro_card {
+    margin: 20px;
+    width: 40%;
+    border: 3px  solid black;
+    padding: 10px;
+}
+
+body {
+    background-color: #7BD9F6;
 }
